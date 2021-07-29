@@ -64,7 +64,7 @@ const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 const cr = '𝑲𝑰𝑳⃟𝑳𝑼𝑨 ⃪𝑼𝑵𝑲𝑵⃟𝑶𝑾𝑵\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*Poxa seu numero esta bloqueado, creio que voce abuso do meus comando e foi bloqueado por isso fale com meu dono sobre isso*'
